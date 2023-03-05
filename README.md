@@ -23,6 +23,3 @@
 - The course is awesome and the original one is dead
 - Find the material was hard
 - I want to store my notes, material and modifications
-
-
-``cryptotyler - Enes Can Işık compilations from my archive.``
